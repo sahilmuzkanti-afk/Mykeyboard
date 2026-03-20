@@ -35,4 +35,4 @@ https://drive.google.com/file/d/17SE7lhAPqHGHGGqQkhNdOv5Vobzph8jl/view?usp=shari
 | Mechanical Keyboard Keycap Set | 81 | Keycaps used for mechanical keyboard switches | $15.69 | Amazon | https://amzn.in/d/022G7hkw |
 | Cherry Clip-in Stabilizers | 1 | Stabilizer kit for large keys | $8.98 | Keebsmod | https://www.keebsmod.com/products/cherry-clip-in-stabilizers |
 | Custom Keyboard PCB | 1 | Custom PCB manufactured for the keyboard | $33.85 | JLCPCB | Cart screenshot in README |
-| **Total Project Cost** |  |  | **$96.20** |  |  |
+| **Total Project Cost** |  |  | **$97.20** |  |  |
