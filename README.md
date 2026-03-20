@@ -22,7 +22,8 @@ https://drive.google.com/file/d/17SE7lhAPqHGHGGqQkhNdOv5Vobzph8jl/view?usp=shari
 <img width="941" height="474" alt="BOTTOM" src="https://github.com/user-attachments/assets/628d46d6-9b86-4053-a6f5-cfd5fa90e3c6" />
 <img width="968" height="370" alt="PLATE" src="https://github.com/user-attachments/assets/00c6d3fb-9c61-47fc-9263-4beb087e1ad4" />
 <img width="882" height="417" alt="TOP" src="https://github.com/user-attachments/assets/4b8d1457-437d-4996-900a-f5349f687b32" />
-<img width="1688" height="625" alt="Screenshot 2026-03-12 183719" src="https://github.com/user-attachments/assets/a588acd8-5091-4b68-aa5a-1ea626c6a1fc" />
+<img width="1717" height="529" alt="image" src="https://github.com/user-attachments/assets/18b0f75c-581d-4020-bd9e-370b69aa9742" />
+
 ## Bill of Materials (BOM)
 
 | Component | Quantity | Description | Price (USD) | Supplier | Link |
