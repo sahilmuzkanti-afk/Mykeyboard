@@ -1,0 +1,12 @@
+# Bill of Materials (BOM)
+
+| Component                         | Quantity | Description                                                  | Price (USD) | Supplier | Link |
+|----------------------------------|----------|--------------------------------------------------------------|-------------|----------|------|
+| Raspberry Pi Pico                | 1        | RP2040 microcontroller board used to control the keyboard   | $8.34       | Amazon   | https://amzn.in/d/0fqm6Hu0 |
+| Gateron KS-9 Key Switches        | 81       | Mechanical keyboard switches for each key                   | $25.37      | Amazon   | https://amzn.in/d/0cwz2P6f |
+| 1N4148 Diode                     | 81       | Signal diode used in keyboard matrix to prevent ghosting    | $2.74       | Amazon   | https://amzn.in/d/0dybXXSo4 |
+| M3x16mm Screws                   | 50       | Screws used to mount keyboard case and PCB                  | $2.23       | Amazon   | https://amzn.in/d/06ymnZXY |
+| Mechanical Keyboard Keycap Set   | 81       | Keycaps used for mechanical keyboard switches               | $15.69      | Amazon   | https://amzn.in/d/022G7hkw |
+| Cherry Clip-in Stabilizers       | 1        | Stabilizer kit for large keys                               | $8.98       | Keebsmod | https://www.keebsmod.com/products/cherry-clip-in-stabilizers |
+| Custom Keyboard PCB              | 1        | Custom PCB manufactured for the keyboard                    | $33.85      | JLCPCB   | Cart screenshot in README |
+| **Total Project Cost**           |          |                                                              | **$97.20**  |          |      |
