@@ -10,18 +10,19 @@ It was also a fun way to create something useful for everyday typing and coding.
 
 FREE CAD SOURCE FILE ( DUE TO 25 MB LIMIT )
 https://drive.google.com/file/d/17SE7lhAPqHGHGGqQkhNdOv5Vobzph8jl/view?usp=sharing
+<img width="1062" height="329" alt="PCB" src="https://github.com/user-attachments/assets/1c951a8b-d357-4c29-9b4e-c42a41fd0bb5" />
+<img width="941" height="474" alt="BOTTOM" src="https://github.com/user-attachments/assets/44459f69-eeed-43c4-b051-dc64f0e055cf" />
+<img width="1130" height="435" alt="ASSEMBLY" src="https://github.com/user-attachments/assets/f4996608-97cd-44ee-a666-dd38b2f46a93" />
+<img width="1175" height="400" alt="ASSEMBLY 2nd angle" src="https://github.com/user-attachments/assets/6e13bb3b-29e2-4cda-802c-750473cb3320" />
+<img width="882" height="417" alt="TOP" src="https://github.com/user-attachments/assets/d901ee3e-5500-4d08-b37b-863fdb9a391a" />
+<img width="1119" height="774" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/cde523f6-2ac9-423c-b4a7-456d8b7dede8" />
+<img width="968" height="370" alt="PLATE" src="https://github.com/user-attachments/assets/91fe79d6-d704-41ce-8229-d112dcbe3fae" />
+<img width="1262" height="451" alt="PCB STEP" src="https://github.com/user-attachments/assets/adb19f8a-cc4a-4d63-931a-368dc2db25bd" />
+<img width="1286" height="550" alt="PCB 3D VIEW" src="https://github.com/user-attachments/assets/a54187f2-98ad-4643-b607-c20152bd089c" />
+<img width="1293" height="491" alt="ERC ( 0 ERROR )" src="https://github.com/user-attachments/assets/627a4760-581d-4dc1-bae6-654d3710cec9" />
+<img width="814" height="577" alt="DRC ( 0 ERROR )" src="https://github.com/user-attachments/assets/9b3a9cee-526d-4176-bd68-065aa7c32eee" />
 
-<img width="1286" height="550" alt="PCB 3D VIEW" src="https://github.com/user-attachments/assets/06a75bb9-a0eb-4b7b-ae28-4dcdfaf2edb1" />
-<img width="814" height="577" alt="DRC ( 0 ERROR )" src="https://github.com/user-attachments/assets/cbab4679-64cb-4030-80b4-2d0bd96ac43f" />
-<img width="1293" height="491" alt="ERC ( 0 ERROR )" src="https://github.com/user-attachments/assets/8eed0bfe-c561-46eb-a016-72c0d69548fd" />
-<img width="1175" height="400" alt="ASSEMBLY 2nd angle" src="https://github.com/user-attachments/assets/8385bd28-6b11-4ee9-aed7-9113a5f56007" />
 
-<img width="1130" height="435" alt="ASSEMBLY" src="https://github.com/user-attachments/assets/8257b660-349a-4f0a-8059-57052a3fd108" />
-<img width="1062" height="329" alt="PCB" src="https://github.com/user-attachments/assets/51732fcb-823d-41c9-91a3-f3699389502b" />
-<img width="1119" height="774" alt="SCHEMATIC" src="https://github.com/user-attachments/assets/a39fefe4-9be1-45b4-9eb1-629c246df60b" />
-<img width="941" height="474" alt="BOTTOM" src="https://github.com/user-attachments/assets/628d46d6-9b86-4053-a6f5-cfd5fa90e3c6" />
-<img width="968" height="370" alt="PLATE" src="https://github.com/user-attachments/assets/00c6d3fb-9c61-47fc-9263-4beb087e1ad4" />
-<img width="882" height="417" alt="TOP" src="https://github.com/user-attachments/assets/4b8d1457-437d-4996-900a-f5349f687b32" />
 <img width="1717" height="529" alt="image" src="https://github.com/user-attachments/assets/18b0f75c-581d-4020-bd9e-370b69aa9742" />
 
 ## Bill of Materials (BOM)
